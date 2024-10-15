@@ -1,4 +1,5 @@
 # Shark Names You - API
+[![Java CI with Maven](https://github.com/ariannelafraise/shark-names-you-api/actions/workflows/ci.yaml/badge.svg)](https://github.com/ariannelafraise/shark-names-you-api/actions/workflows/ci.yaml)
 > This application is in (very) early development.
 
 This is the API for **Shark Names You**, an application made to help trans folks choose a name. It uses data from Données Québec, therefore making it targeted towards french-speaking people.
